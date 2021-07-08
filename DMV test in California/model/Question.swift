@@ -11,6 +11,8 @@ import Foundation
 class Question {
         var questionText: String
         var answer: String
+    
+    //we have 4 options
         var A: String
         var B: String
         var C: String

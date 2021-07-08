@@ -11,6 +11,7 @@ import Foundation
 class AnswerExplanation1 {
     var list = [String]()
     
+    //let's append to the list
     init () {
         //1
         list.append("While waiting to turn left, keep your wheels pointed straight ahead until it is safe to start your turn. If a vehicle hits you from behind, this will prevent you from veering into oncoming traffic. When parked facing either uphill or downhill, turn the wheels so the vehicle will not roll into traffic if the brakes fail.")
